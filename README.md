@@ -107,7 +107,7 @@ Datetime — Time manipulation and formatting
 
 🖥 How to Run Locally Clone the Repository
 
-bash Copy Edit git clone https://github.com/tushant687/tushant687-Real-Time-Stock-Market-Dashboard.git cd stock-dashboard Install Dependencies
+bash Copy Edit git clone (https://github.com/garima1923/Real-Time-Stock-Market-Dashboard.git ) cd stock-dashboard Install Dependencies
 
 bash Copy Edit pip install -r requirements.txt Run the App
 
